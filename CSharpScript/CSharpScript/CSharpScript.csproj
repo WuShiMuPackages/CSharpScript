@@ -2,6 +2,15 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <Description>提供一个C#脚本的包；功能是传入一段C#代码，返回代码执行的结果，需要提供return，并且返回值是string类型。</Description>
+    <PackageProjectUrl>https://github.com/WuShiMuPackages/CSharpScript.git</PackageProjectUrl>
+    <PackageIconUrl>https://en.gravatar.com/userimage/127492023/796f5614a8ff5a86bc52b431dc970fd5.png?size=200</PackageIconUrl>
+    <RepositoryUrl>https://github.com/WuShiMuPackages/CSharpScript.git</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <Authors>桂素伟</Authors>
+    <Company>五十亩</Company>
+    <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
+    <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
   </PropertyGroup>
 
   <ItemGroup>
